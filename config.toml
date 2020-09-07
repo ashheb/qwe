@@ -1,0 +1,4 @@
+baseURL = "https://ashheb.github.io/qwe"
+languageCode = "en-us"
+title = "My New QWE SITE!!!"
+theme = "hugo-ink"
